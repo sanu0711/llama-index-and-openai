@@ -1,4 +1,4 @@
-# Document-Search-System-using-Llama-Index-and-OpenAI
+# Document Search System using Llama Index and OpenAI
 ![GitHub last commit](https://img.shields.io/github/last-commit/sanu0711/Document-Search-System-using-Llama-Index-and-OpenAI)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sanu0711/Document-Search-System-using-Llama-Index-and-OpenAI)
 
