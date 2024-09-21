@@ -16,6 +16,12 @@ This project demonstrates how to create a vector-based retrieval system using `l
 - Interactive querying and response printing.
 
 
+## Result (Screenshots)
+
+![Screenshot 1](https://github.com/sanu0711/llama-index-and-openai/blob/main/outputs/O1.png)
+
+![Screenshot 2](https://github.com/sanu0711/llama-index-and-openai/blob/main/outputs/O2.png)
+
 
 
 
