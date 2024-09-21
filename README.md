@@ -1,6 +1,6 @@
 # Document Search System using Llama Index and OpenAI
-![GitHub last commit](https://img.shields.io/github/last-commit/sanu0711/Document-Search-System-using-Llama-Index-and-OpenAI)
-![GitHub repo size](https://img.shields.io/github/repo-size/sanu0711/Document-Search-System-using-Llama-Index-and-OpenAI)
+![GitHub last commit](https://img.shields.io/github/last-commit/sanu0711/llama-index-and-openai)
+![GitHub repo size](https://img.shields.io/github/repo-size/sanu0711/llama-index-and-openai)
 
 ## Overview
 Document Search System using Llama Index and OpenAI is an AI-powered solution for efficient document querying. It uses Llama Index for vector-based indexing and OpenAI's GPT to interpret natural language queries, providing accurate search results. The system supports persistent indexing for fast, repeated queries and customizable similarity thresholds to ensure relevant document retrieval. Perfect for scalable, intelligent document search across large datasets.
